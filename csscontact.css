@@ -1,0 +1,219 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400);
+
+body{
+	background-color: #2E8B57;
+	font-size: 30px;
+	color: white;
+}
+
+#home{
+	background-image: url("https://s-media-cache-ak0.pinimg.com/736x/4c/52/69/4c5269fcdacbb5afeb0456d39563b04d.jpg");
+}
+
+#picture {
+	background-color: #000000;
+}
+element.style {
+}
+index.html:75
+#picture {
+    width: 700px;
+}
+img {
+    width: 55%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.myButton1 {
+		background-color:#FFFFFF;
+	-moz-border-radius:40px;
+	-webkit-border-radius:40px;
+	border-radius:70px;
+	border:5px solid #000000;
+	cursor: help;
+	color:#000000;
+	font-family:Andalus;
+	font-size:40px;
+	padding:9px 9px;
+	text-decoration:none;
+	text-align: center;
+	position:fixed;
+	top:100px;
+	width: 200px;
+	height: 50px;
+	left: 20px;
+}
+.myButton1:hover {
+	background-color:#000000;
+	color: white;	
+}
+
+
+.myButton2 {
+		background-color:#FFFFFF;
+	-moz-border-radius:40px;
+	-webkit-border-radius:40px;
+	border-radius:70px;
+	border:5px solid #000000;
+	cursor: help;
+	color:#000000;
+	font-family:Andalus;
+	font-size:40px;
+	padding:9px 9px;
+	text-decoration:none;
+	text-align: center;
+	position:fixed;
+	top:300px;
+	width: 200px;
+	height: 50px;
+	left: 20px;
+}
+.myButton2:hover {
+	background-color:#000000;
+	color: white;	
+}
+
+
+.myButton3 {
+		background-color:#FFFFFF;
+	-moz-border-radius:40px;
+	-webkit-border-radius:40px;
+	border-radius:70px;
+	border:5px solid #000000;
+	cursor: help;
+	color:#000000;
+	font-family:Andalus;
+	font-size:40px;
+	padding:9px 9px;
+	text-decoration:none;
+	text-align: center;
+	position:fixed;
+	top:300px;
+	width: 200px;
+	height: 50px;
+	left: 1040px;
+}
+.myButton3:hover {
+	background-color:#000000;
+	color: white;	
+}
+
+.myButton4 {
+		background-color:#FFFFFF;
+	-moz-border-radius:40px;
+	-webkit-border-radius:40px;
+	border-radius:70px;
+	border:5px solid #000000;
+	cursor: help;
+	color:#000000;
+	font-family:Andalus;
+	font-size:40px;
+	padding:9px 9px;
+	text-decoration:none;
+	text-align: center;
+	position:fixed;
+	top:100px;
+	width: 200px;
+	height: 50px;
+	left: 1040px;
+}
+.myButton4:hover {
+	background-color:#000000;
+	color: white;	
+}
+
+input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
+  color: #FFFFFF;
+  font-size: 30px;
+}
+
+
+
+input:hover::-webkit-input-placeholder, textarea:hover::-webkit-input-placeholder {
+  color: #ffffff;
+  font-size: 23px;
+}
+
+input:hover:focus::-webkit-input-placeholder, textarea:hover:focus::-webkit-input-placeholder {
+  color: #000000;
+}
+
+input:hover::-moz-placeholder, textarea:hover::-moz-placeholder {
+  color: #ffffff;
+  font-size: 23px;
+}
+
+
+
+body {
+  font-family: Andalus;
+  color: #ffffff;
+  text-shadow: 4px 3px #000000;
+}
+
+header {
+  position: relative;
+  font-size: 70px;
+  text-align: center;
+}
+
+#form {
+  position: relative;
+  width: 500px;
+  margin: 20px 380px;
+}
+
+input {
+  font-family:  Calibri;
+  font-size: 23px;
+  width: 470px;
+  height: 50px;
+	background: #00543d;
+  border: solid 2px #ffffff;
+  border-bottom: none;
+}
+
+input:hover {
+  background: #65b59f;
+  color: #ffffff;
+}
+
+textarea {
+  width: 466px;
+  max-width: 470px;
+  height: 110px;
+  max-height: 110px;
+  background: #00543d;
+  
+  color: #726659;
+  font-family: 'Lato';
+  font-size: 22px;
+  border: solid 2px #ffffff;
+  
+}
+
+textarea:hover {
+  background: #65b59f;
+}
+
+#submit {
+  width: 475px;
+  
+  padding: 0;
+  margin: -5px 0px 0px 0px;
+  
+  font-family: 'Lato';
+  font-size: 30px;
+  color: #ffffff;
+  
+  outline:none;
+  cursor: crosshair;
+  
+  border: solid 2px #ffffff;
+}
+
+#submit:hover {
+  color: #ffffff;
+}

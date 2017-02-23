@@ -1,0 +1,15 @@
+body{
+	background-color: #2E8B57;
+	font-size: 30px;
+	color: white;
+}
+
+#home{
+	background-image: url("https://s-media-cache-ak0.pinimg.com/736x/4c/52/69/4c5269fcdacbb5afeb0456d39563b04d.jpg");
+}
+
+table,th, td {
+	border: 3px solid white;
+	width: 800px;
+	align: center;
+}

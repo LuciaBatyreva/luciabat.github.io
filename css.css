@@ -1,0 +1,145 @@
+body{
+	background-color: #2E8B57;
+	font-size: 30px;
+	color: white;
+}
+
+#home{
+	background-image: url("https://s-media-cache-ak0.pinimg.com/736x/4c/52/69/4c5269fcdacbb5afeb0456d39563b04d.jpg");
+}
+table,th, td {
+	border: 3px solid white;
+	width: 800px;
+	align: center;
+}
+th {
+	background-color: white;
+}
+td {
+	background-color: #0c0c0c;
+}
+
+tablesecond,th, td{
+	border: #0c0c0c;
+}
+
+#livvi {
+	border: 1px solid white;
+}
+#picture {
+	background-color: #000000;
+}
+element.style {
+}
+index.html:75
+
+#picture {
+    width: 700px;
+}
+
+img {
+    width: 55%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.myButton1 {
+		background-color:#FFFFFF;
+	-moz-border-radius:40px;
+	-webkit-border-radius:40px;
+	border-radius:70px;
+	border:5px solid #000000;
+	cursor: help;
+	color:#000000;
+	font-family:Andalus;
+	font-size:40px;
+	padding:9px 9px;
+	text-decoration:none;
+	text-align: center;
+	position:fixed;
+	top:100px;
+	width: 200px;
+	height: 50px;
+	left: 20px;
+}
+.myButton1:hover {
+	background-color:#000000;
+	color: white;	
+}
+
+
+.myButton2 {
+		background-color:#FFFFFF;
+	-moz-border-radius:40px;
+	-webkit-border-radius:40px;
+	border-radius:70px;
+	border:5px solid #000000;
+	cursor: help;
+	color:#000000;
+	font-family:Andalus;
+	font-size:40px;
+	padding:9px 9px;
+	text-decoration:none;
+	text-align: center;
+	position:fixed;
+	top:300px;
+	width: 200px;
+	height: 50px;
+	left: 20px;
+}
+.myButton2:hover {
+	background-color:#000000;
+	color: white;	
+}
+
+
+.myButton3 {
+		background-color:#FFFFFF;
+	-moz-border-radius:40px;
+	-webkit-border-radius:40px;
+	border-radius:70px;
+	border:5px solid #000000;
+	cursor: help;
+	color:#000000;
+	font-family:Andalus;
+	font-size:40px;
+	padding:9px 9px;
+	text-decoration:none;
+	text-align: center;
+	position:fixed;
+	top:300px;
+	width: 200px;
+	height: 50px;
+	left: 1040px;
+}
+.myButton3:hover {
+	background-color:#000000;
+	color: white;	
+}
+
+.myButton4 {
+		background-color:#FFFFFF;
+	-moz-border-radius:40px;
+	-webkit-border-radius:40px;
+	border-radius:70px;
+	border:5px solid #000000;
+	cursor: help;
+	color:#000000;
+	font-family:Andalus;
+	font-size:40px;
+	padding:9px 9px;
+	text-decoration:none;
+	text-align: center;
+	position:fixed;
+	top:100px;
+	width: 200px;
+	height: 50px;
+	left: 1040px;
+}
+.myButton4:hover {
+	background-color:#000000;
+	color: white;	
+}
+
